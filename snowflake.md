@@ -15,3 +15,5 @@ $ git add main.tf
 $ git add .gitignore
 $ git commit -m "Add Database and Warehouse"
 $ git push origin HEAD
+
+https://zb25708.ap-south-1.aws.snowflakecomputing.com/
